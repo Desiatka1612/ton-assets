@@ -1,0 +1,9 @@
+address: "0:f0db72a74f07ab7d2a3abd5a7366faa43c424524df83d9d579ab12d436f61e13"
+name: "Default.mc coin"
+symbol: "DEFMCv1"
+decimals: 9
+image: "https://i.ibb.co/yhc4F5W/logoDMC.jpg"
+description: "Official utility token for the Default.mc Minecraft server. Used for  internal economy and some game features."
+social:
+  - "https://t.me/default_mc"
+websites: []
